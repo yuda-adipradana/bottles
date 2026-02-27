@@ -41,3 +41,17 @@ flatpak list | grep bottles
 ```
 
 ---
+
+### 07. Configure Bottles
+1. Run bottles
+2. Click Bottles
+3. Create New Bottle...
+4. Give Name Example "RunWindows64Bit Apps"
+5. Choose 3 Option, Example "Application"
+6. Click "Create"
+
+### 08. Add Programs
+1. Add Shortcuts
+2. Download Programs .exe from Debian, example winamp installer
+3. Click Add
+4. Install winamp like windows installer
